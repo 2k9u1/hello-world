@@ -1,7 +1,7 @@
 print("hello gyu!" + str(12345))
 
 # create a varible of foods and print it
-foods = ["apple", "banana", "cherry"]
+foods = ["apple", "banana", "cherry", "chicken", "beef", "pork", "fish", "rice", "noodle", "bread"]
 print(foods)
 
 # create a function that takes a list of foods and prints it
